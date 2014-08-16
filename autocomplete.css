@@ -1,0 +1,25 @@
+body {
+background:#999;
+}
+
+input {
+display:block;
+width:200px;
+margin: 10px auto;
+}
+
+#title {
+display:block;
+padding-top:20px;
+text-align:center;
+font-weight:bold;
+}
+
+#graybox {
+display:block;
+background: #ccc;
+width:250px;
+height: 320px;
+margin:100px auto; 
+border: 10px groove gray;
+}
